@@ -1,7 +1,7 @@
 - git:
     local-name: smart_home/sh_common
     uri: https://github.com/rnvandemark/sh_common.git
-    version: master
+    version: add_find
 - git:
     local-name: smart_home/sh_common_interfaces
     uri: https://github.com/rnvandemark/sh_common_interfaces.git
@@ -13,7 +13,7 @@
 - git:
     local-name: smart_home/sh_find_common
     uri: https://github.com/rnvandemark/sh_find_common.git
-    version: master
+    version: add_find
 - git:
     local-name: smart_home/sh_discovery
     uri: https://github.com/rnvandemark/sh_discovery.git
